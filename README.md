@@ -8,7 +8,7 @@ Aprendiz de Análisis y Desarrollo de Software
 | SENA-Gimnasio | En curso |
 
 <details>
-<summary>Aprendice SENA</summary>
+<summary>Aprendiz SENA</summary>
 
 Ficha 3387753
 
